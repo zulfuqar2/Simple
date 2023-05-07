@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#navigation{
+    border: 1px solid gold;
+    width: 100%;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: url(./img/download.jpg);
+}
+h1{
+    background-color: bisque;
+}
