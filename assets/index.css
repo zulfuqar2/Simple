@@ -11,7 +11,17 @@
     display: flex;
     justify-content: center;
     background-image: url(./img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 h1{
-    background-color: bisque;
+    font-size: 50px;
+    color: white;
+}
+
+.social-media{
+    border: 1px solid red;
+    width: 40%;
+    height: 20px;
 }
